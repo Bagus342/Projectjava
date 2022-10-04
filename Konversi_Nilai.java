@@ -74,7 +74,7 @@ public class Konversi_Nilai {
         } else if (nilai >= 45) {
             grade = "D";
             System.out.println("Grade nilai siswa : " + grade);
-        } else if (nilai < 54) {
+        } else if (nilai < 45) {
             grade = "E";
             System.out.println("Grade nilai siswa : " + grade);
         } else {
